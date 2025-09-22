@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: graphs_bonkfairy
+Version: 0.1.0
+Summary: A Python library implementing Dijkstra's shortest path algorithm and other graph algorithms
+Author: S Holton
+Project-URL: Homepage, https://github.com/bonkfairy/graphs_bonkfairy
+Project-URL: Bug Tracker, https://github.com/bonkfairy/graphs_bonkfairy/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# graphs_bonkfairy
+A Python library implementing Dijkstra's shortest path algorithm and other graph-related utilities.
+
